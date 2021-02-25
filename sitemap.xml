@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://giraffetree.gitee.io/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/about/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/tags/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/2018/11/04/Flink-MeetUp/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/2018/10/23/Tensorflow-%E6%80%BB%E7%BB%93%E4%BA%8C-%E5%9C%A8windows%E4%B8%8A%E4%BD%BF%E7%94%A8tensorflow-gpu/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/2018/10/21/Tensorflow-%E6%80%BB%E7%BB%93%E4%B8%80-Tensorflow-%E4%B8%AD%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/2018/09/15/%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE-CSMA-CD-%E4%B8%8E-%E9%9B%86%E7%BA%BF%E5%99%A8/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/2018/09/13/Nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E5%92%8C%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://giraffetree.gitee.io/2018/07/23/%E8%AE%B0%E4%B8%80%E6%AC%A1VPC%E8%BF%81%E7%A7%BB/</loc>
+  <lastmod>2019-04-03T05:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
